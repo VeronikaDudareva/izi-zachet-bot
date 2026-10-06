@@ -1,2 +1,2 @@
-vkbottle>=5.0
+vkbottle==4.11.0
 aiohttp
